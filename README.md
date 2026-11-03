@@ -14,6 +14,7 @@ Developer folders (anything with a `.git`, `package.json`, `Package.swift` and s
 ## Install
 
 ```sh
+brew trust hyppe-cc/tap      # newer Homebrew asks you to trust third-party taps once
 brew install --cask hyppe-cc/tap/strays
 ```
 
