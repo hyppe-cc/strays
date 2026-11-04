@@ -7,7 +7,7 @@ Strays looks through the folders you choose and brings every photo, video and so
 - **Find:** one scan shows every photo, video and song, plus your biggest files, screenshots, media in Downloads, things untouched for two years, and possible duplicates. New files appear on their own while Strays is open.
 - **Pin:** keep Documents, Pictures or any folder one click away.
 - **Play:** photos full size, videos and music in a built-in player.
-- **Clear:** select several files, then move them to a pinned or new folder, move them to the Trash, or delete them permanently (always asks first).
+- **Clear:** select several files, then move them to a pinned or new folder, move them to the Trash, or delete them permanently (always asks first). Pinned folders are guarded: their files get a separate confirmation, last, and you can turn that off per folder.
 - **Private:** reads only the folders you allow. Nothing is uploaded.
 
 Developer folders (anything with a `.git`, `package.json`, `Package.swift` and similar) are skipped by default, so app assets never show up or get deleted by mistake.
